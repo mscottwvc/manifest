@@ -127,7 +127,7 @@
 	<project path="external/libncurses" name="android_external_libncurses" remote="BR-x86" revision="6.2_20210102" />
     <project path="external/alsa-lib" name="platform_external_alsa-lib" remote="BR-x86" revision="px86-04.02.21" />
     <project path="external/alsa-utils" name="platform_external_alsa-utils" remote="BR-x86" revision="px86-04.02.21" />
-    <project path="external/bison" name="platform/external/bison" remote="aosp" groups="pdk" revision="master" />
+    <project path="external/bison" name="platform/external/bison" remote="aosp" groups="pdk" revision="133f07eb33b32727e058dd25a1441ab4c2fc127a" />
     <project path="external/bluetooth/bluez" name="platform_external_bluetooth_bluez" remote="BR-x86" revision="p9.0" />
     <project path="external/busybox" name="platform_external_busybox" remote="BR-x86" revision="p9.0-r2" />
     <project path="external/efibootmgr" name="platform_external_efibootmgr" remote="BR-x86" revision="p9.0-ax86" />
